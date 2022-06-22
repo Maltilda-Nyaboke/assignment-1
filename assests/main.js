@@ -1,4 +1,4 @@
 function myFunction(){
-    var x = document.getElementById("ass1").value;
-    document.getElementById('ass').innerHTML = "Hello" +" " + x  + " "+ "welcome to the bootcamp.";
+    Ans = document.getElementById("ass1").value;
+    document.getElementById('ass').innerHTML = "Hello" +" " + Ans  + " "+ "welcome to the bootcamp.";
 }
